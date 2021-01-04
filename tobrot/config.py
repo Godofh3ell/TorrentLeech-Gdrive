@@ -11,6 +11,7 @@ class Config(Config):
     OWNER_ID = 810796147 
     AUTH_CHANNEL = [-1001485338331]
     DESTINATION_FOLDER = "TorrentLeech-Gdrive" #Name of your folder read readme(not id of the folder)
+    CUSTOM_FILE_NAME = "[TSNM]-" 
     #fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part
     RCLONE_CONFIG = """
