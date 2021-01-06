@@ -21,7 +21,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
     ✓ Added /renewme command to clear the downloads which are not deleted automatically.
     ✓ Added support for youtube playlist 😐
     ✓ Renaming of Telegram files support added. 😐
-    ✓
+    ✓ Uploads AVI files as vedio files
     
 # TO-DO
 -   ~Gdrive file clonning using Gclone~ `DONE ✓`
