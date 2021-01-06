@@ -5,13 +5,13 @@ from tobrot.sample_config import Config
 #FOR CUSTOM COMMANDS READ REAME AND FILL THEM...
 
 class Config(Config):
-    TG_BOT_TOKEN= "1375372154:AAGoHCmWL7FilPilw69Dd_ITOL8DWjYVeys"
+    TG_BOT_TOKEN= "1431761382:AAEyNQtzlxDM5e_DK6MnzEDWZ93rtxOouDQ"
     APP_ID = 2068926
     API_HASH = "97bebcbb692546bce29934291c5c2998"
     OWNER_ID = 810796147 
-    AUTH_CHANNEL = [-1001485338331]
+    AUTH_CHANNEL = [-1001395092918]
     DESTINATION_FOLDER = "TorrentLeech-Gdrive" #Name of your folder read readme(not id of the folder)
-    CUSTOM_FILE_NAME = "[TSNM]-" 
+    CUSTOM_FILE_NAME = "[TSNM] " 
     #fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part
     RCLONE_CONFIG = """
